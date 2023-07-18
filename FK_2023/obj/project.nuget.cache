@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "IWjTGdztwEvC0+fp7k4hguTFgP+CFjiXQPRMgjYOxam2ti9J5B10LU4rJgxFEwrQH1Hbh3xcftDlAd8qkB+CiA==",
+  "success": true,
+  "projectFilePath": "C:\\Automation\\CSharpSelenium2023\\CSharpSelenium2023\\FK_2023\\FK_2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\fluentassertions\\6.11.0\\fluentassertions.6.11.0.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\microsoft.codecoverage\\17.6.3\\microsoft.codecoverage.17.6.3.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.3\\microsoft.net.test.sdk.17.6.3.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\selenium.support\\4.10.0\\selenium.support.4.10.0.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\selenium.webdriver.chromedriver\\114.0.5735.9000\\selenium.webdriver.chromedriver.114.0.5735.9000.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\specflow\\3.9.40\\specflow.3.9.40.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\specflow.plus.livingdocplugin\\3.9.57\\specflow.plus.livingdocplugin.3.9.57.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.40\\specflow.tools.msbuild.generation.3.9.40.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\specrun.runner\\3.9.31\\specrun.runner.3.9.31.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\specrun.specflow\\3.9.31\\specrun.specflow.3.9.31.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\specrun.specflow.3-9-0\\3.9.31\\specrun.specflow.3-9-0.3.9.31.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.0\\system.threading.tasks.extensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Akheel Assadi\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
